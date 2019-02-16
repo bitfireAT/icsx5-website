@@ -20,7 +20,9 @@ test:
 pages:
   stage: deploy
   script:
-  - bundle exec jekyll build -d public
+    - 'echo baseurl: "/icsx5-website/" >>_config.yml'
+    - 'echo url: "https://bitfireAT.gitlab.io" >>_config.yml'
+    - bundle exec jekyll build -d public
   artifacts:
     paths:
     - public
