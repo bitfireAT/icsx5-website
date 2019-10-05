@@ -16,7 +16,7 @@ useful ideas.
 ----------------------------------------------------------------
 
 **If the synchronization is not run automatically or the sync interval is always
-set to "manual", please see [DAVx⁵ FAQ: Automatic synchronization is not run as expected](https://www.davx5.com/faq/automatic-synchronization-is-not-run-as-expected/)
+set to "manual", please see [DAVx⁵ FAQ: Automatic synchronization is not run as expected](https://www.davx5.com/faq/synchronization-is-not-run-as-expected)
 (just replace DAVx⁵ by ICSx⁵).**
 
 
