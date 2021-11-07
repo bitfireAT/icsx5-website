@@ -1,0 +1,18 @@
+name: Build preview site
+on:
+  push:
+    branches: [main]
+jobs:
+  build:
+    name: Build pages
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Prepare configuration
+        run: |
+          echo baseurl: "/icsx5-website/" >>_config.yml
+          echo url: "https://bitfireat.github.io" >>_config.yml
+      - uses: helaili/jekyll-action@v2
+        with:
+          jekyll_env: development
+          token: ${{ secrets.GITHUB_TOKEN }}

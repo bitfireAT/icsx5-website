@@ -1,7 +1,7 @@
 <header class="site-header" role="banner">
 
-  {% if jekyll.environment == "development" %}
-    <div style="padding: 1em; background: orange;">
+  {% if jekyll.environment != "production" %}
+    <div class="draft">
       This is a draft! See the <a href="https://icsx5.bitfire.at">live version here</a>.
     </div>
   {% endif %}
