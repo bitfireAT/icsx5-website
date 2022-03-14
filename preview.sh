@@ -1,2 +1,4 @@
 #!/bin/sh
-./generate.sh && bundle exec jekyll serve --watch
+
+# JEKYLL_ENV=development (default)
+bundle exec jekyll build && bundle exec jekyll serve --watch

@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   ICSx⁵ is an Android app to subscribe to remote (Webcal) or local iCalendar files.
 
 # Live version will set:
-#baseurl: "/"
-#url: "https://icsx5.bitfire.at"
+baseurl: "/"
+url: "https://icsx5.bitfire.at"
 
 permalink: pretty
 twitter_username: icsx5app
