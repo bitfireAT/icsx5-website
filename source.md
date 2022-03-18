@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Source code
-permalink: source
+title: Source
+permalink: source/
 redirect_to:
   - https://github.com/bitfireAT/icsx5
 ---

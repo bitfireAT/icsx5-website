@@ -38,6 +38,7 @@ header_pages:
   - usage.md
   - faq.md
   - forums.md
+  - source.md
   - donate.md
 
 # Exclude from processing.
