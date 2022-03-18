@@ -1,4 +1,4 @@
-name: Build preview site
+name: Build site
 on:
   push:
     branches: [main]
