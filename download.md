@@ -3,6 +3,8 @@ layout: page
 title: Download
 ---
 
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/at.bitfire.davdroid)
+
 <style>
 .download { max-width: 180px; margin-top: 1em; }
 </style>
