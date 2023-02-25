@@ -12,6 +12,8 @@ event files of your sports team). It will
 * download each iCalendar file regularly at a given interval and
 * import it into a native read-only calendar, which then can be used with your favorite calendar app.
 
+**If you need two-way sync over CalDAV/CardDAV, use [DAVx⁵](https://www.davx5.com) instead.**
+
 ![Subscribe multiple calendars and keep them up-to-date](/assets/mobile-calendars.png "Subscribe multiple calendars and keep them up-to-date")
 ![Easy subscription setup with optional authentication](/assets/mobile-subscribe.png "Easy subscription setup with optional authentication")
 ![Seamless integration with your favorite calendar apps](/assets/mobile-deviceintegration.png "Seamless integration with your favorite calendar apps")
