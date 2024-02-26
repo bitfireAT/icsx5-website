@@ -28,4 +28,4 @@ Tested with various services
 * Subscribe to shared iCloud calendars
 * Subscribe to shared Google calendars
 * Subscribe to any other Webcal
-* Tested with [webcal.fi](http://webcal.fi)
+* Tested with [https://www.webcal.guru/](https://www.webcal.guru)
