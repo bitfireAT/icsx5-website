@@ -23,7 +23,6 @@ baseurl: "/"
 url: "https://icsx5.bitfire.at"
 
 permalink: pretty
-twitter_username: icsx5app
 github_username: bitfireAT
 logo: assets/icsx5.svg
 

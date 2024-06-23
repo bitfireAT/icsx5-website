@@ -29,3 +29,7 @@ Tested with various services
 * Subscribe to shared Google calendars
 * Subscribe to any other Webcal
 * Tested with [https://www.webcal.guru/](https://www.webcal.guru)
+
+---
+
+Fediverse: <a rel="me" href="https://fosstodon.org/@davx5app">@davx5app@fosstodon.org</a> (for both DAVx⁵ and ICSx⁵)
