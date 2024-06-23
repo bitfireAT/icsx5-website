@@ -51,3 +51,9 @@ header_pages:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+minima:
+  social_links:
+    - { platform: github,   user_url: "https://github.com/bitfireAT/icsx5" }
+    - { platform: mastodon, user_url: "https://fosstodon.org/@davx5app" }
+
