@@ -14,9 +14,9 @@ Setup
 You can subscribe to iCalendars (.ics files) with two methods:
 
 1. Follow a link in your browser (for instance, "subscribe calendar" on [webcal.fi](http://webcal.fi))
-   Select "ICSx⁵" if you're asked which app shall open the link.
-   `http[s]://…/xxx.ics` and `webcal[s]://` URLs are supported.
-2. Or tap "+" in the ICSx⁵ main activity. Then you can enter the URL or click "Pick file"
+   Select "ICSx⁵" if you're asked which app shall open the link. Only `webcal[s]://` URLs are supported
+   via this method. 
+3. Or tap "+" in the ICSx⁵ main activity. Then you can enter the URL or click "Pick file"
    and choose a file from storage.
 
 In both cases, the ICSx⁵ "Add subscription" activity will appear. Enter user name and
