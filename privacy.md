@@ -36,7 +36,7 @@ Support privacy policy
 ----------------------
 
 Support requests which are sent to our email addresses (`@bitfire.at`) may be stored
-in our helpdesk system [Central Desk](https://centraldesk.com/), which is located in Köln,
+in our helpdesk system [Zammad](https://www.zammad.com/), which is located in Berlin,
 Germany and our processor as set out in the GDPR. Collected personal data:
 
 * name, email address, date/time
@@ -48,4 +48,4 @@ You have the right to access your personal data, let your personal data be
 rectified or erased, restrict processing of your personal data, export your
 personal data and object to processing of your personal data.
 
-Responsible persons: [Ricki Hirner, Bernhard Stockmann – Stockmann, Hirner GesnbR, 2540 Bad Vöslau, Austria](https://www.bitfire.at)
+Responsible entity: [bitfire web engineering GmbH, 2540 Bad Vöslau, Austria](https://www.bitfire.at)
