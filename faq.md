@@ -6,8 +6,7 @@ title: FAQ
 Frequently Asked Questions
 ==========================
 
-ICSx⁵ is in some ways similar to DAVx⁵ (for instance, it relies on the
-Android sync framework to do its work and is built on the same libraries). So,
+ICSx⁵ is in some ways similar to DAVx⁵ (for instance, it relies on Android WorkManager to do its work and is built on the same libraries). So,
 having a look at the [DAVx⁵ FAQ](https://www.davx5.com/faq) might give
 useful ideas.
 
@@ -63,7 +62,7 @@ resources will be updated in the calendar.
 How can I subscribe to a shared iCloud calendar?
 ------------------------------------------------
 
-In iCloud, you can [share a public calendar with anyone](https://support.apple.com/kb/PH2689).
+In iCloud, you can [share a public calendar with anyone](https://support.apple.com/en-us/guide/icloud/mm6b1a9479/icloud).
 
 If you do so, you get a Webcal URL. Just enter this Webcal URL into ICSx⁵ and you're
 subscribed to this public calendar!
