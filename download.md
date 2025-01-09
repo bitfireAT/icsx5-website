@@ -30,3 +30,7 @@ title: Download
 * Pre-installed on Samsung devices
 * No Google account required
 
+[![Get it on F-Droid](/assets/f-droid.png){: .download}](https://f-droid.org/es/packages/at.bitfire.icsdroid/)
+
+* All apps are FOSS.
+* No Google account required
